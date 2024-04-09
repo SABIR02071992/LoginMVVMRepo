@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginDemoMVVM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="delivery_date" />
+    <string name="password">Password</string>
+    <string name="company_code">Company Code</string>
+    <string name="login">LOGIN</string>
+    <string name="mobile_number">Mobile Number</string>
+</resources>
